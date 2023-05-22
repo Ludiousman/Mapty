@@ -174,7 +174,6 @@ class App {
       // }
       workout = new Cycling([lat, lng], distance, duration, elevation);
     }
-    // console.log('workout');
 
     this.#workouts.push(workout);
     this._renderWorkoutMarker(workout);
