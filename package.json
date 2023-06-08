@@ -1,0 +1,20 @@
+{
+  "name": "ludio-mapty",
+  "version": "1.0.0",
+  "description": "map your workout",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ludiousman/Mapty.git"
+  },
+  "author": "Ludio Usman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ludiousman/Mapty/issues"
+  },
+  "homepage": "https://github.com/Ludiousman/Mapty#readme"
+}
